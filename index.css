@@ -1,0 +1,46 @@
+
+html{
+	scroll-behavior: smooth;
+}
+
+.navbar {
+	position: sticky;
+}
+
+.navbar-brand {
+	font-family: 'Staatliches', cursive;
+}
+
+#prof {
+	height: 40vh;
+}
+
+#img1 {
+	background-image: url(https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#tools {
+	background-image: url(https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#gmap {
+	height: 60vh;
+	width: 100%;
+}
+
+footer img {
+	height: 40px;
+	width: 40px;
+}
+
+body {
+	background-image: url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
